@@ -1,4 +1,4 @@
-Day 1= Learning basic datatypes
+Day 1= Learning basic introduction
 
 Day 2=Learning basic variable
 
