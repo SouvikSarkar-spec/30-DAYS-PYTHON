@@ -1,5 +1,8 @@
-Day 1= Learning basic introduction
+# 30 Days of Python
 
-Day 2=Learning basic variable
+## Learning Log
 
-Day 3=Learning operators
+* **Day 1:** Basic introduction
+* **Day 2:** Basic variables
+* **Day 3:** Basic operators
+* **Day 4:** Strings (`slicing`, `.find()`, `.split()`, `.strip()`, f-strings)
