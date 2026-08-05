@@ -6,3 +6,4 @@
 * **Day 2:** Basic variables
 * **Day 3:** Basic operators
 * **Day 4:** Strings ('slicing`, `.find()`, `.split()`, `.strip()`, f-strings)
+* **Day 5:** List
