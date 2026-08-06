@@ -8,3 +8,4 @@
 * **Day 4:** Strings ('slicing`, `.find()`, `.split()`, `.strip()`, f-strings)
 * **Day 5:** List
 * **Day 6:** Tuples
+* **Day 7:** Sets
