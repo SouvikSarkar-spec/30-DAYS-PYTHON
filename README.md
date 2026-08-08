@@ -10,3 +10,4 @@
 * **Day 6:** Tuples
 * **Day 7:** Sets
 * **Day 8:** Dictionaries
+* **Day 9:** Conditional
