@@ -11,3 +11,4 @@
 * **Day 7:** Sets
 * **Day 8:** Dictionaries
 * **Day 9:** Conditional
+* **Day 10:** Loops(Spent 2 days mastering loops and using datatypes)
