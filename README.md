@@ -12,3 +12,4 @@
 * **Day 8:** Dictionaries
 * **Day 9:** Conditional
 * **Day 10:** Loops(Spent 2 days mastering loops and using datatypes)
+* **Day 11** function
