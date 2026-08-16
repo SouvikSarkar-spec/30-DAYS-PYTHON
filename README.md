@@ -13,3 +13,4 @@
 * **Day 9:** Conditional
 * **Day 10:** Loops(Spent 2 days mastering loops and using datatypes)
 * **Day 11** function
+* **Day 12** Modules(mainly use string and random module)
