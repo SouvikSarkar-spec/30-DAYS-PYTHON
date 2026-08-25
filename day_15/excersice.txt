@@ -1,0 +1,1 @@
+just done some error types on python in git bash so thats why i cannot show my work and unable to understand day 14 so moving to day 15 .
