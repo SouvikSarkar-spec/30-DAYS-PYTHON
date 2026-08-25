@@ -15,3 +15,6 @@
 * **Day 11** function
 * **Day 12** Modules(mainly use string and random module)
 * **Day 13** List comprehension
+
+* **Day 15** Type errors
+* **Day 16** Datetime module
