@@ -1,0 +1,126 @@
+Email Exchange Archive
+
+From: alice.johnson@gmail.com
+To: project.team@company.com
+Subject: Project meeting
+
+Hi team,
+Can we move tomorrow's project meeting to 10:30 AM?
+Please confirm by replying to alice.johnson@gmail.com.
+
+Best,
+Alice
+
+From: robert.smith@yahoo.com
+To: alice.johnson@gmail.com
+Subject: Re: Project meeting
+
+Hi Alice,
+10:30 AM works for me. You can also copy david.wilson@outlook.com on future updates.
+
+Thanks,
+Robert
+
+From: david.wilson@outlook.com
+To: project.team@company.com
+Subject: Weekly report
+
+Hello everyone,
+I have attached the weekly report. Questions can be sent to david.wilson@outlook.com.
+Please also contact support@company.org if there are technical problems.
+
+Regards,
+David
+
+From: support@company.org
+To: david.wilson@outlook.com
+Subject: Re: Weekly report
+
+Hello David,
+We received your message. Our support team will review it.
+For urgent issues, email helpdesk@company.org.
+
+Support Team
+
+From: maria.garcia@hotmail.com
+To: project.team@company.com
+Subject: Documentation
+
+Hi,
+The documentation has been updated.
+You can reach me at maria.garcia@hotmail.com or maria.garcia@workmail.net.
+Please let me know if anything needs to be changed.
+
+Regards,
+Maria
+
+From: james.brown@protonmail.com
+To: maria.garcia@hotmail.com
+Subject: Re: Documentation
+
+Hi Maria,
+Everything looks good from my side.
+I will send the final version to editor@documents.org.
+
+James
+
+From: editor@documents.org
+To: project.team@company.com
+Subject: Final document
+
+Hello team,
+The final document is ready.
+Please send corrections to editor@documents.org before Friday.
+
+Regards,
+Editorial Team
+
+From: priya.sharma@gmail.com
+To: project.team@company.com
+Subject: Schedule
+
+Hi everyone,
+I am available on Monday and Wednesday.
+You can contact me at priya.sharma@gmail.com.
+I have also copied arun.kumar@university.edu.
+
+Thanks,
+Priya
+
+From: arun.kumar@university.edu
+To: priya.sharma@gmail.com
+Subject: Re: Schedule
+
+Hi Priya,
+Wednesday works for me.
+Please keep professor.rao@university.edu informed.
+
+Best,
+Arun
+
+From: professor.rao@university.edu
+To: project.team@company.com
+Subject: Meeting confirmation
+
+The Wednesday meeting is confirmed.
+If you have questions, contact professor.rao@university.edu.
+
+Regards,
+Professor Rao
+
+From: newsletter@news.example.org
+To: subscribers@example.com
+Subject: Monthly newsletter
+
+Thank you for subscribing.
+For questions about your subscription, contact newsletter@news.example.org.
+
+From: finance.team@company.com
+To: project.team@company.com
+Subject: Budget update
+
+The updated budget has been prepared.
+Please send questions to finance.team@company.com.
+For invoices, contact invoices@company.com.
+
+End of archive.
