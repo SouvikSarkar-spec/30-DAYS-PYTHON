@@ -12,12 +12,12 @@
 * **Day 8:** Dictionaries
 * **Day 9:** Conditional
 * **Day 10:** Loops(Spent 2 days mastering loops and using datatypes)
-* **Day 11** function
-* **Day 12** Modules(mainly use string and random module)
-* **Day 13** List comprehension
+* **Day 11:** function
+* **Day 12:** Modules(mainly use string and random module)
+* **Day 13:** List comprehension
 
-* **Day 15** Type errors
-* **Day 16** Datetime module
-* **Day 17**Exception Handling
-* **Day 18**Regular expression
+* **Day 15:** Type errors
+* **Day 16:** Datetime module
+* **Day 17:** Exception Handling
+* **Day 18:** Regular expression
 * **Day 19**File handling
