@@ -19,3 +19,5 @@
 * **Day 15** Type errors
 * **Day 16** Datetime module
 * **Day 17**Exception Handling
+* **Day 18**Regular expression
+* **Day 19**File handling
