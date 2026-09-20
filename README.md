@@ -15,10 +15,11 @@
 * **Day 11:** function
 * **Day 12:** Modules(mainly use string and random module)
 * **Day 13:** List comprehension
-
+* **Day 14:** Higher Order Functions
 * **Day 15:** Type errors
 * **Day 16:** Datetime module
 * **Day 17:** Exception Handling
 * **Day 18:** Regular expression
 * **Day 19:** File handling
 * **Day 20:** Pip
+* **Day 21:** Classes and Objects 
