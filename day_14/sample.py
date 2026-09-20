@@ -1,7 +1,12 @@
-def sum_number(arg):
-    return sum(arg)
+def decorator_with_parameters(function):
+    def wrapper_accepting_parameters(para1, para2, para3):
+        function(para1, para2, para3)
+        print("I live in {}".format(para3))
+    return wrapper_accepting_parameters
 
-def higher_order_function(sum_numbers,arg):
-    x=sum_numbers(arg)
-    return x
-print(higher_order_function(sum_number,[1,2,3,4,5,6])) 
+@decorator_with_parameters
+def print_full_name(first_name, last_name, country):
+    print("I am {} {}. I love to teach.".format(
+        first_name, last_name))
+
+print_full_name("Asabeneh", "Yetayeh",'Finland')
